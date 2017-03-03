@@ -1,0 +1,38 @@
+#Left-Gradient-Box
+{
+    background: #73AD21;
+    padding: 20px; 
+    width: 65px;
+    height: 45px; 
+    border-radius: 15px;
+    float: left;
+    margin-left: 325px;
+    background: linear-gradient(to right, red, green); 
+    text-align: center;
+}
+
+#Middle-Gradient-Box
+{
+    background: #73AD21;
+    padding: 20px; 
+    width: 65px;
+    height: 45px; 
+    border-radius: 15px;
+    float: left;
+    margin-left: 30px;
+    background: radial-gradient(circle at top, red , yellow , green );
+    text-align: center;
+}
+
+#Right-Gradient-Box
+{
+    background: #73AD21;
+    padding: 20px; 
+    width: 65px;
+    height: 45px; 
+    border-radius: 15px;
+    float: left;
+    margin-left: 30px;
+    background: radial-gradient(at top, red , yellow , green );
+    text-align: center;
+}
